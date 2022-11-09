@@ -35,7 +35,7 @@ The data has scraped using BeautifulSoup.
 
 ## 6) FIFA [Model Building]
 We applied auto ML technique and various ML algorithms.
-() 
+(https://github.com/Mdkhabab/FIFA/blob/main/6_FIFA%20%5BModel%20Building%5D.ipynb) 
 
 
 
